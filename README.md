@@ -1,10 +1,9 @@
 # GenAI-Learning
-Unfortunately, I cannot provide a definitive list of Generative AI courses within Cloud Skills Boost in a markdown table format for a few reasons:
 
 ### Google Cloud
 | Course Name                                            | Description                                    | Link                                                                 |
 | ------------------------------------------------------ | ---------------------------------------------- | -------------------------------------------------------------------- |
-| Generate Text with Natural Language Processing and AI  | Introduction to NLP concepts and text generation | Relevant Course Link: [https://www.cloudskillsboost.google/paths/118](https://www.cloudskillsboost.google/paths/118) | 
+| Introduction to Generative AI Learning Path  | This learning path provides an overview of generative AI concepts, from the fundamentals of large language models to responsible AI principles.| Course Link: [https://www.cloudskillsboost.google/paths/118](https://www.cloudskillsboost.google/paths/118) | 
 
 ### Microsoft Copilot
 
