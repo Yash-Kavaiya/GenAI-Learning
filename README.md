@@ -1,5 +1,5 @@
 # GenAI-Learning
-
+- AI Engineers possess a good understanding of programming, software engineering, and data science, and use different tools and techniques to process data and to develop and maintain AI systems.
 ### Google Cloud
 | Course Name                                            | Description                                    | Link                                                                 |
 | ------------------------------------------------------ | ---------------------------------------------- | -------------------------------------------------------------------- |
