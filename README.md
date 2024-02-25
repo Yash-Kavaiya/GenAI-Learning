@@ -7,11 +7,11 @@
 
 ### Microsoft Copilot
 
-| Course Title                                         | Description                                               | Link                                                 | Relevance                                         |
-| ---------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------- |
-| **Intro to Python for Data Science**                 | Foundational Python skills for data manipulation         | Course Link: [https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/) | Essential for most generative AI implementations  |
-| **Build AI Solutions with Azure Machine Learning**   | Using Azure ML for development, including potential GenAI | Course Link: [https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/) | May touch on GenAI use cases and tools            | 
-| **Responsible AI Principles**                        | Ethical considerations in AI development                  | Course Link: [https://www.microsoft.com/en-us/ai/responsible-ai](https://www.microsoft.com/en-us/ai/responsible-ai) | Crucial for GenAI projects due to potential biases |  
+| Course Title                                         | Description                                               | Link                                                 |                    
+| ---------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- |
+| **Intro to Python for Data Science**                 | Foundational Python skills for data manipulation         | Course Link: [https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/) |
+| **Build AI Solutions with Azure Machine Learning**   | Using Azure ML for development, including potential GenAI | Course Link: [https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/) | 
+| **Responsible AI Principles**                        | Ethical considerations in AI development                  | Course Link: [https://www.microsoft.com/en-us/ai/responsible-ai](https://www.microsoft.com/en-us/ai/responsible-ai) | 
 
 ### Amazon Generative AI
 
