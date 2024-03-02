@@ -26,5 +26,8 @@
 | Amazon Transcribe — Getting Started³ | A course that introduces Amazon Transcribe, a service that converts speech into text. |
 | Building Generative AI Applications Using Amazon Bedrock³ | A course that guides you through building Generative AI applications using Amazon Bedrock. |
 
+### Other repos
+https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#computer-interview-prep
+
 
 
