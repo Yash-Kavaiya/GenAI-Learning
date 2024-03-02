@@ -35,6 +35,19 @@
 | **Intro to Python for Data Science**                 | Foundational Python skills for data manipulation         | Course Link: [https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/) |
 | **Build AI Solutions with Azure Machine Learning**   | Using Azure ML for development, including potential GenAI | Course Link: [https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/) | 
 | **Responsible AI Principles**                        | Ethical considerations in AI development                  | Course Link: [https://www.microsoft.com/en-us/ai/responsible-ai](https://www.microsoft.com/en-us/ai/responsible-ai) | 
+| **Using Azure OpenAI Service**                        | Get started with generative AI, copilots, large language models, and Azure OpenAI Service.                  | Course Link: [https://www.microsoft.com/en-us/ai/responsible-ai](https://learn.microsoft.com/en-us/collections/20mirj4odnj6o) | 
+| **AI for Beginners**                        | 12-week, 24-lesson curriculum exploring AI.                  | Course Link: https://microsoft.github.io/AI-For-Beginners/ | 
+| **Create custom Machine Learning models**                        | Work with Azure Machine Learning to create machine learning models. Explore the workspace, work with data,
+and automate machine learning model selection                | Course Link:  https://learn.microsoft.com/en-us/collections/5m3syp2eex2rm| 
+| **Build apps with Azure AI services and Power Virtual Agents**                        | Start your AI learning journey with Azure AI Services. Find resources on Azure OpenAI and learn how to fine-tune advanced language models from OpenAI.   | Course Link: https://learn.microsoft.com/en-us/collections/erkiyp71jpmgp | 
+| **Master Azure AI fundamentals**                        | Explore machine learning, computer vision,
+natural language processing, decision support,
+and knowledge mining, all while getting ready to earn your next credential.                 | Course Link: https://learn.microsoft.com/en-us/collections/zopanqdn7w1p1| 
+| **GitHub Copilot for Visual Studio**                        | Find out how to use AI every day to streamline your work with GitHub Copilot.
+
+This content is recommended for developers.                 | Course Link:https://learn.microsoft.com/en-us/collections/nq2b20y286pnj | 
+| **Adopting Copilot for Microsoft 365**                        |Discover the benefits of adopting Copilot for Microsoft 365. Learn about its versatility, streamline communication, and power up content creation.   | Course Link: https://learn.microsoft.com/en-us/collections/nq2b20y286pnj | 
+
 
 ### Amazon Generative AI
 
