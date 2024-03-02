@@ -7,19 +7,19 @@
   - Cover the full stack from prompt engineering to user-centered design
   - Get up to speed on the state-of-the-art
 
-| Course Name                | Link                     |
-| -----------------------------------------| --------------------------------------------- |
-| Launch an LLM App in One Hour | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/launch-an-llm-app-in-one-hour/) | 
-| LLM Foundations | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/) | 
-| Learn to Spell: Prompt Engineering | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/) | 
-| Augmented Language Models | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/augmented-language-models/) | 
-| Project Walkthrough: askFSDL | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/askfsdl-walkthrough/) | 
-| UX for Language User Interfaces | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/ux-for-luis/) | 
-| LLMOps | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/) | 
-| What's Next? | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/whats-next/) | 
-| Reza Shabani: How to train your own LLM | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/shabani-train-your-own/) | 
-| Harrison Chase: Agents | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/) | 
-| Fireside Chat with Peter Welinder | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/welinder-fireside-chat/) |  
+| Course Name                | Description | Link                     |
+| -----------------------------------------|-------------------| --------------------------------------------- |
+| Launch an LLM App in One Hour | Brief overview of the course content  | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/launch-an-llm-app-in-one-hour/) | 
+| LLM Foundations | Introduction to the basics of LLMs | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/) | 
+| Learn to Spell: Prompt Engineering | Techniques for effective prompting  | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/) | 
+| Augmented Language Models | Enhancing LLMs with tools and data | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/augmented-language-models/) | 
+| Project Walkthrough: askFSDL | Step-by-step guide for the project | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/askfsdl-walkthrough/) | 
+| UX for Language User Interfaces | Designing intuitive LLM interactions | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/ux-for-luis/) | 
+| LLMOps | Deployment and management of LLM solutions | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/) | 
+| What's Next? | Future directions in LLM development  | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/whats-next/) | 
+| Reza Shabani: How to train your own LLM | Deep dive into LLM training | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/shabani-train-your-own/) | 
+| Harrison Chase: Agents | Building LLM-powered agents | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/) | 
+| Fireside Chat with Peter Welinder | Insights from an industry leader | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/welinder-fireside-chat/) |  
 
 
 
