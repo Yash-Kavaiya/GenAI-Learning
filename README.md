@@ -1,5 +1,27 @@
 # GenAI-Learning
 - AI Engineers possess a good understanding of programming, software engineering, and data science, and use different tools and techniques to process data and to develop and maintain AI systems.
+
+### LLM Bootcamp - Spring 2023 by The Full Stack
+- Full Stack LLM Bootcamp
+  - Learn best practices and tools for building LLM-powered apps
+  - Cover the full stack from prompt engineering to user-centered design
+  - Get up to speed on the state-of-the-art
+
+| Course Name                               | Link                                         |
+| -----------------------------------------| --------------------------------------------- |
+| Launch an LLM App in One Hour  | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/launch-an-llm-app-in-one-hour/ | 
+| LLM Foundations  | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/ | 
+| Learn to Spell: Prompt Engineering  | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/ | 
+| Augmented Language Models | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/augmented-language-models/ | 
+| Project Walkthrough: askFSDL  | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/askfsdl-walkthrough/ | 
+| UX for Language User Interfaces | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/ux-for-luis/ | 
+| LLMOps  | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/ | 
+| What's Next?  | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/whats-next/ | 
+| Reza Shabani: How to train your own LLM  | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/shabani-train-your-own/ | 
+| Harrison Chase: Agents  | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/| 
+| Fireside Chat with Peter Welinder  | Course Link: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/welinder-fireside-chat/ | 
+
+
 ### Google Cloud
 | Course Name                                            | Description                                    | Link                                                                 |
 | ------------------------------------------------------ | ---------------------------------------------- | -------------------------------------------------------------------- |
