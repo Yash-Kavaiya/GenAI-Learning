@@ -7,7 +7,6 @@
   - Cover the full stack from prompt engineering to user-centered design
   - Get up to speed on the state-of-the-art
 
-```
 | Course Name                | Link                     |
 | -----------------------------------------| --------------------------------------------- |
 | Launch an LLM App in One Hour | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/launch-an-llm-app-in-one-hour/) | 
@@ -21,9 +20,6 @@
 | Reza Shabani: How to train your own LLM | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/shabani-train-your-own/) | 
 | Harrison Chase: Agents | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/) | 
 | Fireside Chat with Peter Welinder | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/welinder-fireside-chat/) |  
-```
-
-
 
 
 
