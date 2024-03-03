@@ -44,7 +44,6 @@
 | **Adopting Copilot for Microsoft 365** |Discover the benefits of adopting Copilot for Microsoft 365. Learn about its versatility, streamline communication, and power up content creation. | [Course Link](https://learn.microsoft.com/en-us/collections/nq2b20y286pnj) | 
 
 
-
 ### Amazon Generative AI
 
 | Course Name | Description |
@@ -58,8 +57,18 @@
 | Amazon Transcribe — Getting Started³ | A course that introduces Amazon Transcribe, a service that converts speech into text. |
 | Building Generative AI Applications Using Amazon Bedrock³ | A course that guides you through building Generative AI applications using Amazon Bedrock. |
 
-### Other repos
-https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#computer-interview-prep
+### Prompt Engineering
 
+| Course Title | Description | Link |
+|---|---|---|
+| ChatGPT Prompt Engineering for Developers by DeepLearning.AI |  Learn to leverage ChatGPT for application development | [https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
+| Prompt Engineering with Llama 2 | Explore prompt design for the open-source Llama 2 model  | [https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/) |
+| Master Prompt Engineering by Prompt Engineering Institute |  Comprehensive course on LLM prompting from marketing experts | Master Prompt Engineering by Prompt Engineering Institute: [https://contentatscale.ai/blog/ai-prompt-engineering-course/](https://contentatscale.ai/blog/ai-prompt-engineering-course/) |
+| Introductory Course on Prompt Engineering by LearnPrompting | Beginner-friendly introduction to prompt engineering concepts | LearnPrompting website: [https://learnprompting.org/](https://learnprompting.org/) |
+| The Prompt Engineering Guide | A detailed resource for mastering prompt creation | [The Prompt Engineering Guide]((https://www.promptingguide.ai/) |
+
+
+### Other repos
+https://github.com/aishwaryanr/awesome-generative-ai-guide
 
 
