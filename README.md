@@ -68,7 +68,5 @@
 | The Prompt Engineering Guide | A detailed resource for mastering prompt creation | [Website link](https://www.promptingguide.ai/) |
 
 
-### Other repos
-https://github.com/aishwaryanr/awesome-generative-ai-guide
 
 
