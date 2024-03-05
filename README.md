@@ -61,9 +61,9 @@
 
 | Course Title | Description | Link |
 |---|---|---|
-| ChatGPT Prompt Engineering for Developers by DeepLearning.AI |  Learn to leverage ChatGPT for application development | [course link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
-| Prompt Engineering with Llama 2 | Explore prompt design for the open-source Llama 2 model  | [course link](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/) |
-| Master Prompt Engineering by Prompt Engineering Institute |  Comprehensive course on LLM prompting from marketing experts | [course link](https://contentatscale.ai/blog/ai-prompt-engineering-course/) |
+| ChatGPT Prompt Engineering for Developers by DeepLearning.AI |  Learn to leverage ChatGPT for application development | [Course link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) |
+| Prompt Engineering with Llama 2 | Explore prompt design for the open-source Llama 2 model  | [Course link](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/) |
+| Master Prompt Engineering by Prompt Engineering Institute |  Comprehensive course on LLM prompting from marketing experts | [Course link](https://contentatscale.ai/blog/ai-prompt-engineering-course/) |
 | Introductory Course on Prompt Engineering by LearnPrompting | Beginner-friendly introduction to prompt engineering concepts |  [ Website link:](https://learnprompting.org/) |
 | The Prompt Engineering Guide | A detailed resource for mastering prompt creation | [Website link](https://www.promptingguide.ai/) |
 
