@@ -67,6 +67,11 @@
 | Introductory Course on Prompt Engineering by LearnPrompting | Beginner-friendly introduction to prompt engineering concepts |  [ Website link:](https://learnprompting.org/) |
 | The Prompt Engineering Guide | A detailed resource for mastering prompt creation | [Website link](https://www.promptingguide.ai/) |
 
+### YouTube
+| Course Title | Description | Link |
+|---|---|---|
+|AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch| Youtube | [Course](https://youtu.be/jSgdL1zX4h8?si=oYH_D20SiuhK4lnW)
+
 
 
 
