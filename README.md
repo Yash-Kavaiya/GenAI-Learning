@@ -9,8 +9,8 @@
 
 | Course Name                | Description | Link                     |
 | -----------------------------------------|-------------------| --------------------------------------------- |
-| Launch an LLM App in One Hour | Brief overview of the course content  | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/launch-an-llm-app-in-one-hour/) | 
-| LLM Foundations | Introduction to the basics of LLMs | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/) | 
+|[] Launch an LLM App in One Hour | Brief overview of the course content  | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/launch-an-llm-app-in-one-hour/) | 
+|[x]LLM Foundations | Introduction to the basics of LLMs | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foundations/) | 
 | Learn to Spell: Prompt Engineering | Techniques for effective prompting  | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-engineering/) | 
 | Augmented Language Models | Enhancing LLMs with tools and data | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/augmented-language-models/) | 
 | Project Walkthrough: askFSDL | Step-by-step guide for the project | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/askfsdl-walkthrough/) | 
@@ -20,7 +20,6 @@
 | Reza Shabani: How to train your own LLM | Deep dive into LLM training | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/shabani-train-your-own/) | 
 | Harrison Chase: Agents | Building LLM-powered agents | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/) | 
 | Fireside Chat with Peter Welinder | Insights from an industry leader | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/welinder-fireside-chat/) |  
-
 
 
 ### Google Cloud
@@ -70,7 +69,8 @@
 ### YouTube
 | Course Title | Description | Link |
 |---|---|---|
-|AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch| Youtube | [Course](https://youtu.be/jSgdL1zX4h8?si=oYH_D20SiuhK4lnW)
+| AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch| Murtaza's Workshop - Robotics and AI | [Course](https://youtu.be/jSgdL1zX4h8?si=oYH_D20SiuhK4lnW) |
+| Generative AI Full Course | Freecodecamp | [Course](https://www.youtube.com/watch?v=mEsleV16qdo&t=402s) |
 
 
 
