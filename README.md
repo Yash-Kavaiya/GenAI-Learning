@@ -22,12 +22,12 @@
 | Fireside Chat with Peter Welinder | Insights from an industry leader | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/welinder-fireside-chat/) |  
 
 
-### Google Cloud
+### Google Cloud - Cloud Skill Boost 
 | Course Name                                            | Description                                    | Link                                                                 |
 | ------------------------------------------------------ | ---------------------------------------------- | -------------------------------------------------------------------- |
 | Introduction to Generative AI Learning Path  | This learning path provides an overview of generative AI concepts, from the fundamentals of large language models to responsible AI principles.| Course Link: [https://www.cloudskillsboost.google/paths/118](https://www.cloudskillsboost.google/paths/118) | 
 
-### Microsoft Copilot
+### Microsoft Copilot :- Microsoft Learn
 
 | Course Title                                         | Description                                               | Link                                                 |                    
 | ---------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- |
@@ -66,11 +66,12 @@
 | Introductory Course on Prompt Engineering by LearnPrompting | Beginner-friendly introduction to prompt engineering concepts |  [ Website link:](https://learnprompting.org/) |
 | The Prompt Engineering Guide | A detailed resource for mastering prompt creation | [Website link](https://www.promptingguide.ai/) |
 
-### YouTube
+### YouTube Free Courses 
 | Course Title | Channel Name | Link |
 |---|---|---|
 | AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch| Murtaza's Workshop - Robotics and AI | [Course](https://youtu.be/jSgdL1zX4h8?si=oYH_D20SiuhK4lnW) |
 | Generative AI Full Course | Freecodecamp | [Course](https://www.youtube.com/watch?v=mEsleV16qdo&t=402s) |
+
 
 
 
