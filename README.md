@@ -21,6 +21,14 @@
 | Harrison Chase: Agents | Building LLM-powered agents | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/) | 
 | Fireside Chat with Peter Welinder | Insights from an industry leader | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/welinder-fireside-chat/) |  
 
+### DeepLearning AI 
+
+| Course Title                                         | Description                                               | Link                                                 |                    
+| ---------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- |
+| **AI for Everyone**                 | AI is not only for engineers. “AI for Everyone”, a non-technical course, will help you understand AI technologies and spot opportunities to apply AI to problems in your own organization. You will see examples of what today’s AI can – and cannot – do.  | [Course Link](https://www.deeplearning.ai/courses/ai-for-everyone/) |
+|**Generative AI for Everyone** | Learn how generative AI works, and how to use it in your life and at work |[Course Link](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)|
+|**Learn the fundamentals of generative AI for real-world applications** | In Generative AI with Large Language Models (LLMs), created in partnership with AWS, you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications. |[Course Link]([https://www.deeplearning.ai/courses/generative-ai-for-everyone/](https://www.deeplearning.ai/courses/generative-ai-for-everyone/))|
+|**Machine Learning Engineering for Production (MLOps) Specialization** | The Machine Learning Engineering for Production (MLOps) Specialization covers how to conceptualize, build, and maintain integrated systems that continuously operate in production. In striking contrast with standard machine learning modeling, production systems need to handle relentless evolving data |[Course Link](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/)|
 
 ### Google Cloud - Cloud Skill Boost 
 | Course Name                                            | Description                                    | Link                                                                 |
