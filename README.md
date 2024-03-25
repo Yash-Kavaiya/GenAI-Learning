@@ -1,7 +1,13 @@
-# GenAI-Learning
+# :star: GenAI-Learning
 - AI Engineers possess a good understanding of programming, software engineering, and data science, and use different tools and techniques to process data and to develop and maintain AI systems.
 
-### LLM Bootcamp - Spring 2023 by The Full Stack
+1. [LLM Bootcamp - Spring 2023 by The Full Stack](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#LLM Bootcamp - Spring 2023 by The Full Stack)
+2. [DeepLearning AI](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#DeepLearning AI)
+3. [Microsoft Copilot :- Microsoft Learn](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Microsoft Copilot :- Microsoft Learn)
+4. [Amazon Generative AI](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Amazon Generative AI)
+5. [LLM Bootcamp - Spring 2023 by The Full Stack](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#LLM Bootcamp - Spring 2023 by The Full Stack)
+6. 
+## LLM Bootcamp - Spring 2023 by The Full Stack
 - Full Stack LLM Bootcamp
   - Learn best practices and tools for building LLM-powered apps
   - Cover the full stack from prompt engineering to user-centered design
@@ -21,7 +27,7 @@
 | Harrison Chase: Agents | Building LLM-powered agents | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-agents/) | 
 | Fireside Chat with Peter Welinder | Insights from an industry leader | [Course Link](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/welinder-fireside-chat/) |  
 
-### DeepLearning AI 
+## DeepLearning AI 
 
 | Course Title                                         | Description                                               | Link                                                 |                    
 | ---------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- |
@@ -30,12 +36,12 @@
 |**Learn the fundamentals of generative AI for real-world applications** | In Generative AI with Large Language Models (LLMs), created in partnership with AWS, you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications. |[Course Link]([https://www.deeplearning.ai/courses/generative-ai-for-everyone/](https://www.deeplearning.ai/courses/generative-ai-for-everyone/))|
 |**Machine Learning Engineering for Production (MLOps) Specialization** | The Machine Learning Engineering for Production (MLOps) Specialization covers how to conceptualize, build, and maintain integrated systems that continuously operate in production. In striking contrast with standard machine learning modeling, production systems need to handle relentless evolving data |[Course Link](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/)|
 
-### Google Cloud - Cloud Skill Boost 
+## Google Cloud - Cloud Skill Boost 
 | Course Name                                            | Description                                    | Link                                                                 |
 | ------------------------------------------------------ | ---------------------------------------------- | -------------------------------------------------------------------- |
 | Introduction to Generative AI Learning Path  | This learning path provides an overview of generative AI concepts, from the fundamentals of large language models to responsible AI principles.| Course Link: [https://www.cloudskillsboost.google/paths/118](https://www.cloudskillsboost.google/paths/118) | 
 
-### Microsoft Copilot :- Microsoft Learn
+## Microsoft Copilot :- Microsoft Learn
 
 | Course Title                                         | Description                                               | Link                                                 |                    
 | ---------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- |
@@ -51,7 +57,7 @@
 | **Adopting Copilot for Microsoft 365** |Discover the benefits of adopting Copilot for Microsoft 365. Learn about its versatility, streamline communication, and power up content creation. | [Course Link](https://learn.microsoft.com/en-us/collections/nq2b20y286pnj) | 
 
 
-### Amazon Generative AI
+## Amazon Generative AI
 
 | Course Name | Description |
 | --- | --- |
