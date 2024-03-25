@@ -7,7 +7,7 @@
 2. [DeepLearning AI](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#deepLearning-AI)
 3. [Microsoft Copilot :- Microsoft Learn](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Microsoft-Copilot-Microsoft-Learn)
 4. [Amazon Generative AI](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Amazon-Generative-AI)
-5. [LLM Bootcamp - Spring 2023 by The Full Stack](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#LLM-Bootcamp-spring-2023-by-The-Full-Stack)
+5. [Google Cloud - Cloud Skill Boost](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Google-Cloud-Cloud-Skill-Boost)
 6. 
 ## LLM Bootcamp - Spring 2023 by The Full Stack
 - Full Stack LLM Bootcamp
