@@ -1,11 +1,13 @@
 # :star: GenAI-Learning
 - AI Engineers possess a good understanding of programming, software engineering, and data science, and use different tools and techniques to process data and to develop and maintain AI systems.
 
+## Table of Contents 
+
 1. [LLM Bootcamp - Spring 2023 by The Full Stack](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#llm-bootcamp-spring-2023-by-the-full-stack)
 2. [DeepLearning AI](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#deepLearning-AI)
-3. [Microsoft Copilot :- Microsoft Learn](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Microsoft Copilot :- Microsoft Learn)
-4. [Amazon Generative AI](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Amazon Generative AI)
-5. [LLM Bootcamp - Spring 2023 by The Full Stack](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#LLM Bootcamp - Spring 2023 by The Full Stack)
+3. [Microsoft Copilot :- Microsoft Learn](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Microsoft-Copilot-Microsoft-Learn)
+4. [Amazon Generative AI](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Amazon-Generative-AI)
+5. [LLM Bootcamp - Spring 2023 by The Full Stack](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#LLM-Bootcamp-spring-2023-by-The-Full-Stack)
 6. 
 ## LLM Bootcamp - Spring 2023 by The Full Stack
 - Full Stack LLM Bootcamp
