@@ -105,9 +105,9 @@
 ### YouTube Free Courses 
 | Course Title | Channel Name | Link |
 |---|---|---|
-| AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch| Murtaza's Workshop - Robotics and AI | [Course](https://youtu.be/jSgdL1zX4h8?si=oYH_D20SiuhK4lnW) |
-| Generative AI Full Course | Freecodecamp | [Course](https://www.youtube.com/watch?v=mEsleV16qdo&t=402s) |
-| Gen AI Course  Gen AI Tutorial For Beginners|Codebasics|[Course](https://youtu.be/d4yCWBGFCEs?si=tTOyPGn9MSRwRvXw)|
+| AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch| Murtaza's Workshop - Robotics and AI | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/jSgdL1zX4h8?si=oYH_D20SiuhK4lnW)|
+| Generative AI Full Course | Freecodecamp |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=mEsleV16qdo&t=402s) |
+| Gen AI Course  Gen AI Tutorial For Beginners|Codebasics|[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/d4yCWBGFCEs?si=tTOyPGn9MSRwRvXw)|
 
 
 
