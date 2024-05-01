@@ -96,11 +96,11 @@
 | Introductory Course on Prompt Engineering by LearnPrompting | Beginner-friendly introduction to prompt engineering concepts |  [ Website link:](https://learnprompting.org/) |
 | The Prompt Engineering Guide | A detailed resource for mastering prompt creation | [Website link](https://www.promptingguide.ai/) |
 
-### RAG 
+### Retrieval-Augmented Generation
 
 | Course Title | Description | Link |
 |---|---|---|
-| RAG From Scratch - Amazing Tutorial by LangChain |  Youtube videos | [Course link](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=XKJa_DRPkYXuVo38) |
+| RAG From Scratch - Amazing Tutorial by LangChain |  Youtube videos |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=XKJa_DRPkYXuVo38) |
 
 ### YouTube Free Courses 
 | Course Title | Channel Name | Link |
