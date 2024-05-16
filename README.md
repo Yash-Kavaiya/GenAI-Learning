@@ -110,6 +110,10 @@
 | Gen AI Course  Gen AI Tutorial For Beginners|Codebasics|[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/d4yCWBGFCEs?si=tTOyPGn9MSRwRvXw)|
 | Introduction to large language models|IIT Madras BS Degree |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo&si=sWZTDoZYcPEOQ48Z)|
 
+### Other Github links
+
+[Ppts](https://github.com/sunnysavita10/Indepth-GENAI)
+
 
 
 
