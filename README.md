@@ -109,10 +109,17 @@
 | Generative AI Full Course | Freecodecamp |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=mEsleV16qdo&t=402s) |
 | Gen AI Course  Gen AI Tutorial For Beginners|Codebasics|[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/d4yCWBGFCEs?si=tTOyPGn9MSRwRvXw)|
 | Introduction to large language models|IIT Madras BS Degree |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo&si=sWZTDoZYcPEOQ48Z)|
+| Genartive AI News  |Krish Naik | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/@krishnaik06) |
+| Introduction to large language models|IIT Madras BS Degree |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo&si=sWZTDoZYcPEOQ48Z)|
+| LLM Crash Course | Neural Hacks with Vasanth | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/@NeuralHackswithVasanth) |
+| Genartive AI  | Sunny Savita | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)]([https://www.youtube.com/@NeuralHackswithVasanth](https://www.youtube.com/@sunnysavita10)) |
+| DeepLearningAI  | DeepLearningAI | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/@Deeplearningai) |
 
 ### Other Github links
-
-[Ppts](https://github.com/sunnysavita10/Indepth-GENAI)
+| Material Type |
+|--|
+|[Indepth-GENAI](https://github.com/sunnysavita10/Indepth-GENAI) |
+|[Next-Genarative-AI-courses-by-campusx](https://github.com/Yash-Kavaiya/CampusX-courses)
 
 
 
