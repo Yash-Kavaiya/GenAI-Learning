@@ -121,7 +121,16 @@
 |[Indepth-GENAI](https://github.com/sunnysavita10/Indepth-GENAI) |
 |[Next-Genarative-AI-courses-by-campusx](https://github.com/Yash-Kavaiya/CampusX-courses)
 
-
+7 GitHub Repo to Master GenerativeAI
+|Title |Link|
+|--|--|
+|1. Generative AI for Beginners - Microsoft | https://github.com/microsoft/generative-ai-for-beginners |
+|2. GenerativeAI by Google Cloud Platform | https://github.com/GoogleCloudPlatform/generative-ai |
+|3.Awesome Generative AI |https://github.com/steven2358/awesome-generative-ai |
+|4. Awesome GenAI | https://github.com/filipecalegario/awesome-generative-ai |
+|5. Learn Generative AI | https://github.com/panaverse/learn-generative-ai |
+|6. Generative AI Research Papers Collection | https://github.com/kevinknights29/GenAI_Papers |
+|7.  GenerativeAI Projects| https://github.com/yagyesh-bobde/GenAI-Projects |
 
 
 
