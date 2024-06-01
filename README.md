@@ -121,7 +121,8 @@
 |[Indepth-GENAI](https://github.com/sunnysavita10/Indepth-GENAI) |
 |[Next-Genarative-AI-courses-by-campusx](https://github.com/Yash-Kavaiya/CampusX-courses)
 
-7 GitHub Repo to Master GenerativeAI
+# 7 GitHub Repo to Master GenerativeAI
+
 |Title |Link|
 |--|--|
 |1. Generative AI for Beginners - Microsoft | https://github.com/microsoft/generative-ai-for-beginners |
