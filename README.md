@@ -74,7 +74,8 @@
 | Material Type |
 |--|
 |[Indepth-GENAI](https://github.com/sunnysavita10/Indepth-GENAI) |
-|[Next-Genarative-AI-courses-by-campusx](https://github.com/Yash-Kavaiya/CampusX-courses)
+|[Next-Genarative-AI-courses-by-campusx](https://github.com/Yash-Kavaiya/CampusX-courses) |
+| [Building-LLM-Powered-Applications Book](https://github.com/PacktPublishing/Building-LLM-Powered-Applications?tab=readme-ov-file)|
 
 # 7 GitHub Repo to Master GenerativeAI
 
