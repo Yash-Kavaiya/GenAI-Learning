@@ -69,7 +69,9 @@
 | Introduction to large language models|IIT Madras BS Degree |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo&si=sWZTDoZYcPEOQ48Z)|
 | LLM Crash Course | Neural Hacks with Vasanth | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/@NeuralHackswithVasanth) |
 | Genartive AI  | Sunny Savita | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)]([https://www.youtube.com/@NeuralHackswithVasanth](https://www.youtube.com/@sunnysavita10)) |
-| DeepLearningAI  | DeepLearningAI | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/@Deeplearningai) |
+| DeepLearningAI  | DeepLearningAI | |
+|Generative AI Hands-on Course – OpenAI, Gemini Pro, Llama 3, Ollama, Langchain, RAG & More  | 
+Siddhardhan | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/oNA6pTNfHCY?si=QijY0TVYe8kEEZex)  |
 
 ### Other Github links
 | Material Type |
