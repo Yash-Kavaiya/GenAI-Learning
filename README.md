@@ -72,6 +72,8 @@
 | DeepLearningAI  | DeepLearningAI | |
 |Generative AI Hands-on Course – OpenAI, Gemini Pro, Llama 3, Ollama, Langchain, RAG & More  | 
 Siddhardhan | [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/oNA6pTNfHCY?si=QijY0TVYe8kEEZex)  |
+|  Microsoft Developer | Full Series  Generative AI for Beginners |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/k7HaeJs-N-o?si=RxazyNjzsVHRi2vX) |
+
 
 ### Other Github links
 | Material Type |
