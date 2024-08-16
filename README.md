@@ -9,6 +9,8 @@
 4. [Amazon Generative AI](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Amazon-Generative-AI)
 5. [Google Cloud - Cloud Skill Boost](https://github.com/Yash-Kavaiya/GenAI-Learning?tab=readme-ov-file#Google-Cloud-Cloud-Skill-Boost)
 6. [NVDIA Learn](https://learn.nvidia.com/en-us/training/self-paced-courses)
+7. [Oracle Cloud](https://mylearn.oracle.com/ou/learning-path/become-a-oci-generative-ai-professional/136227)
+8. [IBM AI Learn](https://www.ibm.com/training/artificial-intelligence)
 
    
 ## LLM Bootcamp - Spring 2023 by The Full Stack
@@ -141,5 +143,8 @@
 | Amazon Transcribe — Getting Started³ | A course that introduces Amazon Transcribe, a service that converts speech into text. |
 | Building Generative AI Applications Using Amazon Bedrock³ | A course that guides you through building Generative AI applications using Amazon Bedrock. |
 
+## Oracle
 
+Become an OCI Generative AI Professional
+https://mylearn.oracle.com/ou/learning-path/become-a-oci-generative-ai-professional/136227
 
