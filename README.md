@@ -99,7 +99,7 @@
 |5. Learn Generative AI | https://github.com/panaverse/learn-generative-ai |
 |6. Generative AI Research Papers Collection | https://github.com/kevinknights29/GenAI_Papers |
 |7.  GenerativeAI Projects| https://github.com/yagyesh-bobde/GenAI-Projects |
-
+| 8. Awesome-RAG | https://github.com/lucifertrj/Awesome-RAG |
 
 ## Google Cloud - Cloud Skill Boost 
 | Course Name                                            | Description                                    | Link                                                                 |
