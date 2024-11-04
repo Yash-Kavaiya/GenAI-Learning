@@ -148,8 +148,10 @@
 | Amazon Transcribe — Getting Started³ | A course that introduces Amazon Transcribe, a service that converts speech into text. |
 | Building Generative AI Applications Using Amazon Bedrock³ | A course that guides you through building Generative AI applications using Amazon Bedrock. |
 
-## Oracle
+# Oracle Learning Path Resources
 
-Become an OCI Generative AI Professional
-https://mylearn.oracle.com/ou/learning-path/become-a-oci-generative-ai-professional/136227
+| Course Title                                         | Description                                                                                         | Link                                                                                                 |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Become an OCI Generative AI Professional             | A comprehensive learning path to gain expertise in Oracle Cloud Infrastructure (OCI) Generative AI. | [Oracle Learning Path](https://mylearn.oracle.com/ou/learning-path/become-a-oci-generative-ai-professional/136227) |
+| Become an OCI AI Foundations Associate (2024)        | Foundational course for understanding AI concepts and OCI AI services, tailored for 2024 curriculum. | [Oracle Learning Path](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate-2024/140164) |
 
