@@ -58,7 +58,7 @@
 
 | Course Title | Description | Link |
 |---|---|---|
-| RAG From Scratch - Amazing Tutorial by LangChain |  Youtube videos |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=XKJa_DRPkYXuVo38) |
+| RAG From Scratch - Amazing Tutorial by LangChain |[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x&si=XKJa_DRPkYXuVo38) |
 | RAGHack 2024 |   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtube.com/playlist?list=PLmsFUfdnGr3y8rogpVg80cZOxhYeuoS2j&si=cdsKUr8a56b5MGMp)  |
 | RAG (Retrieval Augmented Generation) |   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLQxDHpeGU14Blorx3Ps1eZJ4XvKET1_vx)  |
 | Master RAG in 5 Hrs |   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/PskoLFEh2WQ?si=6hbmP3YxfMGSjaDU)  |
